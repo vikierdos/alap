@@ -1,0 +1,19 @@
+.kiv {
+    background-color: antiquewhite;
+}
+
+.tartalom{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.kepek{
+    flex: 0 0 400px;
+    border: 1px solid black;
+    padding: 30px;
+    margin: 10px;
+}
+
+.kepek img{
+    width: 100%;
+}
